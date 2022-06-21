@@ -12,5 +12,6 @@
         <page name='NestedFunctions'/>
         <page name='Closures'/>
         <page name='ModelDataStructurevsEnum'/>
+        <page name='EnumsPolymorphism'/>
     </pages>
 </playground>
