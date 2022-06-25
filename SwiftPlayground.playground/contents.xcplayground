@@ -15,5 +15,6 @@
         <page name='EnumsPolymorphism'/>
         <page name='EnumsInsteadOfSubclassing'/>
         <page name='EnumsInsteadOfSubclassing2'/>
+        <page name='EnumsAndStrings'/>
     </pages>
 </playground>
