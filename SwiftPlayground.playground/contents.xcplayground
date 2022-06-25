@@ -5,7 +5,7 @@
         <page name='ArrayFilter'/>
         <page name='ForEach+Enumerated'/>
         <page name='Reduce'/>
-        <page name='Lazy'/>
+        <page name='ArrayLazyFilter'/>
         <page name='ReduceInto'/>
         <page name='Zip'/>
         <page name='FunctionsInOut'/>
@@ -16,5 +16,6 @@
         <page name='EnumsInsteadOfSubclassing'/>
         <page name='EnumsInsteadOfSubclassing2'/>
         <page name='EnumsAndStrings'/>
+        <page name='LazyProperties'/>
     </pages>
 </playground>
