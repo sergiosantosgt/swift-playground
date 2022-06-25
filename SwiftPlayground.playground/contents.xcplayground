@@ -13,5 +13,6 @@
         <page name='Closures'/>
         <page name='ModelDataStructurevsEnum'/>
         <page name='EnumsPolymorphism'/>
+        <page name='EnumsInsteadOfSubclassing'/>
     </pages>
 </playground>
