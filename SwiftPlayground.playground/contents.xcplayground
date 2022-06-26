@@ -21,5 +21,6 @@
         <page name='PropertyObservers'/>
         <page name='StructInitializers'/>
         <page name='ConvenienceInitializers'/>
+        <page name='SubclassingInit'/>
     </pages>
 </playground>
