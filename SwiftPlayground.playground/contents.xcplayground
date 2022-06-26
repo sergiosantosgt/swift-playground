@@ -17,5 +17,6 @@
         <page name='EnumsInsteadOfSubclassing2'/>
         <page name='EnumsAndStrings'/>
         <page name='LazyProperties'/>
+        <page name='ComputedProperties'/>
     </pages>
 </playground>
