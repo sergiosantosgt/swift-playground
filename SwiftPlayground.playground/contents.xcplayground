@@ -19,5 +19,6 @@
         <page name='LazyProperties'/>
         <page name='ComputedProperties'/>
         <page name='PropertyObservers'/>
+        <page name='StructInitializers'/>
     </pages>
 </playground>
