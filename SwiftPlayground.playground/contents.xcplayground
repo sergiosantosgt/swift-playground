@@ -22,5 +22,6 @@
         <page name='StructInitializers'/>
         <page name='ConvenienceInitializers'/>
         <page name='SubclassingInit'/>
+        <page name='RequiredInit'/>
     </pages>
 </playground>
