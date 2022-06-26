@@ -20,5 +20,6 @@
         <page name='ComputedProperties'/>
         <page name='PropertyObservers'/>
         <page name='StructInitializers'/>
+        <page name='ConvenienceInitializers'/>
     </pages>
 </playground>
